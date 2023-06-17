@@ -153,15 +153,6 @@ const Login = () => {
         console.log("Match not found!");
 
         setLoader(false)
-        // let matcher = await createMatcher(faceProfiles, threshold);
-        // let matchResult = matcher(queryDescriptor);
-        // console.log(matchResult)
-        // if (matchResult.distance <= threshold) {
-        //   console.log("CNIC:", matchResult.cnic);
-        // } else {
-        //   // No match found
-        //   console.log("No match found!");
-        // }
       }
     }
   }
