@@ -18,7 +18,7 @@ const About = () => {
                     <p>This platform provides the facility for users to conduct voting activity digitially thorugh Blockchain.
                         This will resolve the problem of mishap or injustice in traditional voting system.
                         Blockchain technology can be used in voting system to have a fair election and reduce injustice.
-                        This platform offers an effective solution to secure the democratic rights of the people.
+                        This platform offers an effective solution to secure the democratic rights of people.
                     </p>
                     <h3 style={{ fontSize: '22px', marginTop: '1rem' }}>Follow</h3>
                     <div className={styles.icons}>
